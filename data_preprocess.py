@@ -1,6 +1,5 @@
 """Convert the natural language data into the format compatible with algorithms."""
 
-import os
 import argparse as ap
 import pickle
 import re
