@@ -5,7 +5,7 @@ This repository identifies end to end process to identify emotion in healthcare 
 ```
 
   . 
-  ├── research_paper                 # research papers relevant for emotion detection in chatbots (more to be added yet..) 
+  ├── research_paper                 # research papers relevant for emotion detection in chatbots (more to be added yet..).  
   ├── data_preprocessing.py          # python code to preprocess and clean nlp dataset 
   ├── model.py                       # python code to define and train stacked deep learning model 
   ├── model_evaluation.py            # python code to evalaute deep learning models
