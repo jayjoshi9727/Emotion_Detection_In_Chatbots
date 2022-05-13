@@ -12,6 +12,7 @@ This repository identifies end to end process to identify emotion in healthcare 
   ├── output_graphs                  # precision recall f1 curve for tested models.
   ├── Isear_data                     # Isear data of emotions 
   ├── Isear_kaggle_data              # preprocessed and cleaned dataset after experiment
+  ├── Project Thesis.pdf.            # Final thesis submitted to data science laboratory. 
   └── README.md
 
 ```
